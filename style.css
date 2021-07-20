@@ -53,10 +53,12 @@
     box-shadow: 1px 1px 0px 1px hsl(233, 52%, 46%);
 }
 .buttona:hover {
-    background-color: hsl(171, 87%, 63%)
+    background-color: hsl(171, 87%, 63%);
+    cursor: pointer;
 }
 .buttonb:hover {
     background-color: hsl(233, 93%, 74%);
+    cursor: pointer;
 }
 .snippet {
     padding-top: 150px;
@@ -156,21 +158,27 @@
 }
 .faq:hover {
     color: hsl(171, 66%, 44%);
+    cursor: pointer;
 }
 .pp:hover {
     color: hsl(171, 66%, 44%);
+    cursor: pointer;
 }
 .ig:hover {
     color: hsl(171, 66%, 44%);
+    cursor: pointer;
 }
 .fb:hover {
     fill: hsl(171, 66%, 44%);
+    cursor: pointer;
 }
 .twet:hover {
     fill: hsl(171, 66%, 44%);
+    cursor: pointer;
 }
 .ins:hover {
     fill: hsl(171, 66%, 44%);
+    cursor: pointer;
 }
 
 @media screen and (max-width: 375px) {

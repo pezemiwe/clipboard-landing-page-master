@@ -1,5 +1,7 @@
 # Frontend Mentor - Clipboard landing page
 
+## Url: [https://pezemiwe.github.io/clipboard-landing-page-master/](https://pezemiwe.github.io/clipboard-landing-page-master/)
+
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋

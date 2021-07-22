@@ -209,11 +209,26 @@ footer {
   .body {
     display: flex;
     flex-direction: column;
-    text-align: center;
-    vertical-align: middle;
+    justify-content: center;
+    align-content: center;
   }
+  .txts {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      margin: 0%;
+      text-align: center;
+      width: 100%;
+      padding-left: 0;
+  }
+ 
   .computer {
     width: 90%;
+    margin: 0 5%;
+  }
+  .sectionb {
+      width: 90%;
+      margin: 0 5%;
   }
   .devices {
     width: 90%;
@@ -272,7 +287,7 @@ footer {
   }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 770px) {
 footer {
     padding: 60px 150px 30px 150px;
 }
